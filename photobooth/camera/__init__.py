@@ -132,6 +132,7 @@ class Camera:
                 if self._rotation is not None:
                     picture = picture.transpose(self._rotation)
                 picture = picture.resize(self._pic_dims.previewSize)
+                picture = picture.crop((0, 52, self._pic_dims.previewSize[0], self._pic_dims.previewSize[1]-52));
                 picture = ImageOps.mirror(picture)
                 byte_data = BytesIO()
                 picture.save(byte_data, format='jpeg')
@@ -164,11 +165,18 @@ class Camera:
 
         self.setIdle()
 
+        # assembled picture
+        # 148 x 100 = 3496 x 2362
+        # 900 x 600 preview
+
         picture = self._template.copy()
-        for i in range(self._pic_dims.totalNumPictures):
-            shot = Image.open(self._pictures[i])
-            resized = shot.resize(self._pic_dims.thumbnailSize)
-            picture.paste(resized, self._pic_dims.thumbnailOffset[i])
+
+        # Jav edit jus tone pic
+        shot = Image.open(self._pictures[0])
+        print(self._pic_dims.thumbnailSize);
+        resized = shot.resize(self._pic_dims.thumbnailSize)
+        croped = resized.crop((0, 200, self._pic_dims.thumbnailSize[0], self._pic_dims.thumbnailSize[1]-200));
+        picture.paste(croped, (self._pic_dims.thumbnailOffset[0][0], self._pic_dims.thumbnailOffset[0][1]))
 
         byte_data = BytesIO()
         picture.save(byte_data, format='jpeg')
