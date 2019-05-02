@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="-564.38498"
-     inkscape:cy="2424.1669"
+     inkscape:zoom="0.10365963"
+     inkscape:cx="-1352.641"
+     inkscape:cy="-9966.8353"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:measure-start="-4788.93,-674.167"
@@ -55,235 +55,552 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08082962;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390"
-       width="260"
-       height="320"
-       x="-246.44048"
-       y="-190.82143" />
+       style="fill:#999999;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1673"
+       width="400"
+       height="1200"
+       x="457.19998"
+       y="1317.2333"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457" />
     <rect
-       style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.0808301;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3"
-       width="260"
-       height="320"
-       x="13.559525"
-       y="-190.82143" />
-    <rect
-       style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.35136557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6"
-       width="380"
-       height="320"
-       x="-246.44048"
-       y="129.17857" />
-    <rect
-       style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.35136557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-7"
-       width="380"
-       height="320"
-       x="133.55952"
-       y="129.17859" />
-    <rect
-       style="fill:#000f70;fill-opacity:0.97814175;stroke:none;stroke-width:6.96646643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-5"
-       width="260"
-       height="420"
-       x="273.55951"
-       y="-290.82141" />
-    <rect
-       style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:6.09543037;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-5-3"
-       width="220"
-       height="380"
-       x="190.82143"
-       y="-246.44048"
-       transform="rotate(-90)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:54.64250946px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.36606276"
-       x="-130.53416"
-       y="-321.12506"
-       id="text830"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         x="-130.53416"
-         y="-321.12506"
-         style="stroke-width:1.36606276"
-         id="tspan832">860mm</tspan></text>
-    <rect
-       style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect836"
-       width="780"
-       height="1.5258789e-05"
-       x="-246.44048"
-       y="129.17857" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:44.5655632px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11413908"
-       x="44.081444"
-       y="511.20929"
-       id="text840"><tspan
-         sodipodi:role="line"
-         id="tspan838"
-         x="44.081444"
-         y="511.20929"
-         style="stroke-width:1.11413908">780mm</tspan></text>
-    <rect
-       style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.0808301;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-36"
-       width="260"
-       height="320"
-       x="1232.1583"
-       y="-141.04128" />
-    <rect
-       style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08083057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-7"
-       width="260"
-       height="320"
-       x="1232.1583"
-       y="178.95874" />
-    <rect
-       style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.35136557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-53"
-       width="380"
-       height="320"
-       x="852.15833"
-       y="178.95872" />
-    <rect
-       style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.35136557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-7-5"
-       width="380"
-       height="320"
-       x="852.15833"
-       y="-141.04126" />
-    <rect
-       style="fill:#000f70;fill-opacity:0.97814175;stroke:none;stroke-width:6.96646643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-5-6"
-       width="260"
-       height="420"
-       x="1232.1583"
-       y="-561.04126" />
-    <rect
-       style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:6.09543037;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-5-3-2"
-       width="220.00002"
-       height="380"
-       x="141.04124"
-       y="852.15833"
-       transform="rotate(-90)" />
-    <rect
-       style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect836-2"
-       width="780"
-       height="1.5258789e-05"
-       x="852.15833"
-       y="178.95872" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:44.56556702px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11413908"
-       x="1142.6802"
-       y="560.9895"
-       id="text840-7"><tspan
-         sodipodi:role="line"
-         id="tspan838-0"
-         x="1142.6802"
-         y="560.9895"
-         style="stroke-width:1.11413908">640mm</tspan></text>
+       style="fill:#999999;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1673-3"
+       width="400"
+       height="1200"
+       x="943.02393"
+       y="1331.4066"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:54.64250946px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.36606288"
-       x="-162.08954"
-       y="1599.7855"
+       x="-2116.6497"
+       y="1433.5702"
        id="text830-6"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457"><tspan
          sodipodi:role="line"
-         x="-162.08954"
-         y="1599.7855"
+         x="-2116.6497"
+         y="1433.5702"
          style="stroke-width:1.36606288"
-         id="tspan832-0">1060 mm</tspan></text>
+         id="tspan832-0">1200 mm</tspan></text>
+    <g
+       id="g1543"
+       transform="translate(1882.4,836.80005)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="1360.4333"
+         x="-1409.2001"
+         height="320"
+         width="384"
+         id="rect1390-3-6-53-6-3"
+         style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.38995552;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1538"
+         y="1559.3678"
+         x="-1329.6869"
+         style="font-style:normal;font-weight:normal;font-size:101.13295746px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52832389"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.52832389"
+           y="1559.3678"
+           x="-1329.6869"
+           id="tspan1536"
+           sodipodi:role="line">BOK</tspan></text>
+    </g>
+    <g
+       transform="translate(1882.4,516.80005)"
+       id="g1543-7"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="1360.4333"
+         x="-1409.2001"
+         height="320"
+         width="384"
+         id="rect1390-3-6-53-6-3-5"
+         style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.38995552;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1538-3"
+         y="1559.3678"
+         x="-1329.6869"
+         style="font-style:normal;font-weight:normal;font-size:101.13295746px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52832389"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.52832389"
+           y="1559.3678"
+           x="-1329.6869"
+           id="tspan1536-5"
+           sodipodi:role="line">BOK</tspan></text>
+    </g>
+    <g
+       id="g1585"
+       transform="rotate(-90,6.03334,841.96672)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="1373.1333"
+         x="-769.23334"
+         height="320"
+         width="260"
+         id="rect1390-3-7-2-6"
+         style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08083105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1580"
+         y="1550.0667"
+         x="-719.17041"
+         style="font-style:normal;font-weight:normal;font-size:46.65594864px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16639864"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.16639864"
+           y="1550.0667"
+           x="-719.17041"
+           id="tspan1578"
+           sodipodi:role="line">ZADEK</tspan></text>
+    </g>
+    <g
+       transform="rotate(-90,136.03334,971.96672)"
+       id="g1585-6"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="1373.1333"
+         x="-769.23334"
+         height="320"
+         width="260"
+         id="rect1390-3-7-2-6-2"
+         style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08083105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1580-9"
+         y="1550.0667"
+         x="-719.17041"
+         style="font-style:normal;font-weight:normal;font-size:46.65594864px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16639864"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.16639864"
+           y="1550.0667"
+           x="-719.17041"
+           id="tspan1578-1"
+           sodipodi:role="line">ZADEK</tspan></text>
+    </g>
+    <g
+       id="g1671"
+       transform="matrix(0,-1.0181816,1.0105263,0,-544.46973,1810.4405)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         transform="scale(-1)"
+         y="-1851.9989"
+         x="75.591904"
+         height="380"
+         width="220.00005"
+         id="rect1390-3-6-5-3-2-7-2"
+         style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:6.09543037;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1628"
+         y="1681.9152"
+         x="-286.71124"
+         style="font-style:normal;font-weight:normal;font-size:73.24243164px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83106077"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.83106077"
+           y="1681.9152"
+           x="-286.71124"
+           id="tspan1626"
+           sodipodi:role="line">VRCH</tspan></text>
+    </g>
+    <g
+       id="g1666"
+       transform="translate(1150.8528,24.802979)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="2086.6038"
+         x="-207.82889"
+         height="420"
+         width="260"
+         id="rect1390-3-6-5-7"
+         style="fill:#000f70;fill-opacity:0.97814175;stroke:none;stroke-width:6.96646643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1628-0"
+         y="2313.0684"
+         x="-188.90271"
+         style="font-style:normal;font-weight:normal;font-size:53.45378876px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f5e7e7;fill-opacity:1;stroke:none;stroke-width:1.33634472"
+         xml:space="preserve"><tspan
+           style="fill:#f5e7e7;stroke-width:1.33634472"
+           y="2313.0684"
+           x="-188.90271"
+           id="tspan1626-9"
+           sodipodi:role="line">SPODEK</tspan></text>
+    </g>
+    <g
+       id="g1712"
+       transform="rotate(90,-55.500928,3142.3658)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         transform="rotate(-90)"
+         y="-890.45996"
+         x="-1843.8409"
+         height="224"
+         width="100"
+         id="rect1390-3-6-5-3-6"
+         style="fill:#666ac2;fill-opacity:0.97814175;stroke:none;stroke-width:3.15518785;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1707"
+         y="1800.7026"
+         x="-885.51611"
+         style="font-style:normal;font-weight:normal;font-size:23.93025398px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59825635"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.59825635"
+           y="1800.7026"
+           x="-885.51611"
+           id="tspan1705"
+           sodipodi:role="line">CAMERA HOLDER</tspan></text>
+    </g>
     <rect
-       style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08083057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-36-6"
-       width="260"
-       height="320"
-       x="-1267.0717"
-       y="-484.62671" />
-    <rect
-       style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08083105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-7-2"
-       width="260"
-       height="320"
-       x="-1007.0717"
-       y="-484.62671" />
-    <rect
-       style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.35136557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-53-6"
-       width="380"
-       height="320"
-       x="-1267.0717"
-       y="155.37331" />
-    <rect
-       style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.35136557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-7-5-1"
-       width="380"
-       height="320"
-       x="-1267.0717"
-       y="-164.62671" />
-    <rect
-       style="fill:#000f70;fill-opacity:0.97814175;stroke:none;stroke-width:6.96646643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-5-6-8"
-       width="260"
-       height="420"
-       x="-1267.0717"
-       y="-904.62671" />
-    <rect
-       style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:6.09543037;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1390-3-6-5-3-2-7"
-       width="220.00003"
-       height="380"
-       x="787.07166"
-       y="484.62671"
-       transform="scale(-1)" />
-    <rect
-       style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect836-2-9"
-       width="780"
-       height="1.5258789e-05"
-       x="-1267.0717"
-       y="155.37331" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:44.56557083px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11413908"
-       x="-1099.28"
-       y="546.38434"
-       id="text840-7-2"><tspan
-         sodipodi:role="line"
-         id="tspan838-0-0"
-         x="-1099.28"
-         y="546.38434"
-         style="stroke-width:1.11413908">520mm</tspan></text>
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:1.41104305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1390-3-6-5-0"
+       width="224"
+       height="20"
+       x="-2531.4067"
+       y="1223.0239"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:54.64250946px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.366063"
-       x="-138.5041"
-       y="-519.44446"
-       id="text830-6-2"
-       transform="rotate(-90)"><tspan
+       x="1034.0929"
+       y="1284.2207"
+       id="text830-6-6"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457"><tspan
          sodipodi:role="line"
-         x="-138.5041"
-         y="-519.44446"
+         x="1034.0929"
+         y="1284.2207"
          style="stroke-width:1.366063"
-         id="tspan832-0-3">1060 mm</tspan></text>
+         id="tspan832-0-2">400 mm</tspan></text>
+    <rect
+       style="fill:#999999;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1673-6"
+       width="400"
+       height="1200"
+       x="-751.9928"
+       y="1411.129"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457" />
+    <rect
+       style="fill:#999999;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1673-3-1"
+       width="400"
+       height="1200"
+       x="-266.16882"
+       y="1425.3024"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:54.64250946px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.366063"
-       x="97.637779"
-       y="-1363.0688"
-       id="text830-6-7"
-       transform="rotate(-90)"><tspan
+       x="-2210.5454"
+       y="224.3773"
+       id="text830-6-8"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457"><tspan
          sodipodi:role="line"
-         x="97.637779"
-         y="-1363.0688"
+         x="-2210.5454"
+         y="224.3773"
          style="stroke-width:1.366063"
-         id="tspan832-0-5">1380 mm</tspan></text>
+         id="tspan832-0-7">1200 mm</tspan></text>
+    <g
+       id="g1543-9"
+       transform="translate(829.94991,1679.035)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <g
+         id="g1861"
+         transform="rotate(90,-1285.7829,1508.6439)">
+        <rect
+           style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.38995552;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1390-3-6-53-6-3-2"
+           width="384"
+           height="320"
+           x="-1409.2001"
+           y="1360.4333" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:101.13295746px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52832389"
+           x="-1329.6869"
+           y="1559.3678"
+           id="text1538-0"><tspan
+             sodipodi:role="line"
+             id="tspan1536-2"
+             x="-1329.6869"
+             y="1559.3678"
+             style="stroke-width:2.52832389">BOK</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="rotate(-90,-264.49707,2303.5587)"
+       id="g1543-7-3"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="1360.4333"
+         x="-1409.2001"
+         height="320"
+         width="384"
+         id="rect1390-3-6-53-6-3-5-7"
+         style="fill:#bc2122;fill-opacity:0.97814175;stroke:none;stroke-width:7.38995552;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1538-3-5"
+         y="1559.3678"
+         x="-1329.6869"
+         style="font-style:normal;font-weight:normal;font-size:101.13295746px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52832389"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.52832389"
+           y="1559.3678"
+           x="-1329.6869"
+           id="tspan1536-5-9"
+           sodipodi:role="line">BOK</tspan></text>
+    </g>
+    <g
+       id="g1585-2"
+       transform="translate(-118.38909,1353.1285)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="1373.1333"
+         x="-769.23334"
+         height="320"
+         width="260"
+         id="rect1390-3-7-2-6-28"
+         style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08083105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1580-97"
+         y="1550.0667"
+         x="-719.17041"
+         style="font-style:normal;font-weight:normal;font-size:46.65594864px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16639864"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.16639864"
+           y="1550.0667"
+           x="-719.17041"
+           id="tspan1578-3"
+           sodipodi:role="line">ZADEK</tspan></text>
+    </g>
+    <g
+       transform="translate(-118.38909,2093.1285)"
+       id="g1585-6-6"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="1373.1333"
+         x="-769.23334"
+         height="320"
+         width="260"
+         id="rect1390-3-7-2-6-2-1"
+         style="fill:#2b5d0a;fill-opacity:0.97814175;stroke:none;stroke-width:6.08083105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1580-9-2"
+         y="1550.0667"
+         x="-719.17041"
+         style="font-style:normal;font-weight:normal;font-size:46.65594864px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16639864"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.16639864"
+           y="1550.0667"
+           x="-719.17041"
+           id="tspan1578-1-9"
+           sodipodi:role="line">ZADEK</tspan></text>
+    </g>
+    <g
+       id="g1666-7"
+       transform="translate(-679.79354,959.65802)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         y="2086.6038"
+         x="-207.82889"
+         height="420"
+         width="260"
+         id="rect1390-3-6-5-7-8"
+         style="fill:#000f70;fill-opacity:0.97814175;stroke:none;stroke-width:6.96646643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1628-0-4"
+         y="2313.0684"
+         x="-188.90271"
+         style="font-style:normal;font-weight:normal;font-size:53.45378876px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f5e7e7;fill-opacity:1;stroke:none;stroke-width:1.33634472"
+         xml:space="preserve"><tspan
+           style="fill:#f5e7e7;stroke-width:1.33634472"
+           y="2313.0684"
+           x="-188.90271"
+           id="tspan1626-9-5"
+           sodipodi:role="line">SPODEK</tspan></text>
+    </g>
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:1.41104305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1390-3-6-5-0-0"
+       width="224"
+       height="20"
+       x="-2625.3025"
+       y="13.83104"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866"
+       width="18"
+       height="18"
+       x="-905.62244"
+       y="3448.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-6"
+       width="18"
+       height="18"
+       x="-905.62244"
+       y="3046.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-3"
+       width="18"
+       height="18"
+       x="-627.62244"
+       y="3448.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-6-2"
+       width="18"
+       height="18"
+       x="-627.62244"
+       y="3046.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-6-2-0"
+       width="18"
+       height="18"
+       x="-645.62244"
+       y="3064.2617" />
+    <g
+       id="g1671-3"
+       transform="matrix(1.0181816,0,0,1.0105263,-568.65615,1576.7681)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         transform="scale(-1)"
+         y="-1851.9989"
+         x="75.591904"
+         height="380"
+         width="220.00005"
+         id="rect1390-3-6-5-3-2-7-2-1"
+         style="fill:#dacf2f;fill-opacity:0.97814175;stroke:none;stroke-width:6.09543037;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1628-9"
+         y="1681.9152"
+         x="-286.71124"
+         style="font-style:normal;font-weight:normal;font-size:73.24243164px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83106077"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.83106077"
+           y="1681.9152"
+           x="-286.71124"
+           id="tspan1626-4"
+           sodipodi:role="line">VRCH</tspan></text>
+    </g>
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-3-4"
+       width="18"
+       height="18"
+       x="-645.62244"
+       y="3430.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-3-7"
+       width="18"
+       height="18"
+       x="-663.62244"
+       y="3448.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-6-2-0-6"
+       width="18"
+       height="18"
+       x="-663.62244"
+       y="3046.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-5"
+       width="18"
+       height="18"
+       x="-887.62244"
+       y="3430.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-6-6"
+       width="18"
+       height="18"
+       x="-887.62244"
+       y="3064.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-5-9"
+       width="18"
+       height="18"
+       x="-869.62244"
+       y="3448.2617" />
+    <rect
+       style="fill:#9dde67;fill-opacity:0.97814175;stroke:none;stroke-width:2.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1866-6-6-3"
+       width="18"
+       height="18"
+       x="-869.62244"
+       y="3046.2617" />
+    <g
+       id="g1712-0"
+       transform="translate(20.78707,1554.0397)"
+       inkscape:export-filename="/home/jav/w/zhebox/hardware/v2/rozvrh.png"
+       inkscape:export-xdpi="457"
+       inkscape:export-ydpi="457">
+      <rect
+         transform="rotate(-90)"
+         y="-890.45996"
+         x="-1843.8409"
+         height="224"
+         width="100"
+         id="rect1390-3-6-5-3-6-3"
+         style="fill:#666ac2;fill-opacity:0.97814175;stroke:none;stroke-width:3.15518785;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1707-6"
+         y="1800.7026"
+         x="-885.51611"
+         style="font-style:normal;font-weight:normal;font-size:23.93025398px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59825635"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.59825635"
+           y="1800.7026"
+           x="-885.51611"
+           id="tspan1705-1"
+           sodipodi:role="line">CAMERA HOLDER</tspan></text>
+    </g>
   </g>
 </svg>
