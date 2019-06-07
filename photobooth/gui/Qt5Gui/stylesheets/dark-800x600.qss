@@ -30,13 +30,13 @@ QPushButton:pressed {
 /* Idle Screen */
 
 QFrame#IdleMessage {
-    background-image: url(photobooth/gui/Qt5Gui/images/arrow-800x600.png);
+    background-image: url(photobooth/gui/Qt5Gui/images/idle_arrow_800x600.png);
     background-repeat: no-repeat;
-    padding: 80px 40px 60px 40px;
+    padding: 70px 40px 60px 40px;
 }
 
 QFrame#IdleMessage QLabel {
-    font-size: 80px;
+    font-size: 180px;
     qproperty-alignment: AlignCenter;
 }
 
@@ -58,7 +58,7 @@ QFrame#GreeterMessage {
 }
 
 QFrame#GreeterMessage QLabel#title {
-    font-size: 100px;
+    font-size: 150px;
     margin: 0;
     padding: 0;
     qproperty-alignment: AlignCenter;
@@ -163,7 +163,7 @@ QWidget#PostprocessMessage QPushButton:disabled {
 QTabWidget::pane {
     background-color: #eeeeee;
     border-style: outset;
-    border-width: 1px;
+    border-width: 10px;
     border-radius: 15px;
     border-color: #eeeeee;
     color: #eeeeee;

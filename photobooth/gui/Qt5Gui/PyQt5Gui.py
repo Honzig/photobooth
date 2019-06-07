@@ -161,7 +161,7 @@ class PyQt5Gui(GuiSkeleton):
 
         self._disableTrigger()
         self._enableEscape()
-        self._setWidget(Frames.WaitMessage(_('Starting the photobooth...')))
+        self._setWidget(Frames.WaitMessage(_('Zapínám fotobudku...')))
         if self._cfg.getBool('Gui', 'hide_cursor'):
             QtWidgets.QApplication.setOverrideCursor(QtCore.Qt.BlankCursor)
 
@@ -212,7 +212,7 @@ class PyQt5Gui(GuiSkeleton):
 
     def showAssemble(self, state):
 
-        self._setWidget(Frames.WaitMessage(_('Processing picture...')))
+        self._setWidget(Frames.WaitMessage(_('Zpracovávám obrázek...')))
 
     def showReview(self, state):
 

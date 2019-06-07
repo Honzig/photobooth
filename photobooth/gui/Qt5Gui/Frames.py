@@ -84,8 +84,8 @@ class IdleMessage(QtWidgets.QFrame):
         super().__init__()
         self.setObjectName('IdleMessage')
 
-        self._message_label = _('Hit the')
-        self._message_button = _('Button!')
+        self._message_label = _('Zmáčkni')
+        self._message_button = _('čudlík!')
 
         self.initFrame(trigger_action)
 
@@ -108,8 +108,8 @@ class GreeterMessage(QtWidgets.QFrame):
         super().__init__()
         self.setObjectName('GreeterMessage')
 
-        self._text_title = _('Get ready!')
-        self._text_button = _('Start countdown')
+        self._text_title = _('Připravte se!')
+        self._text_button = _('Začíná odpočet!')
 
         num_pictures = max(num_x * num_y - int(skip_last), 1)
         if num_pictures > 1:
@@ -148,7 +148,7 @@ class CaptureMessage(QtWidgets.QFrame):
             self._text = _('Picture {} of {}...').format(num_picture,
                                                          num_pictures)
         else:
-            self._text = 'Taking a photo...'
+            self._text = 'Koukej do objektivu!'
 
         self.initFrame()
 
@@ -339,7 +339,7 @@ class PostprocessMessage(Widgets.TransparentOverlay):
             return button
 
         buttons = [createButton(task) for task in tasks]
-        buttons.append(QtWidgets.QPushButton(_('Start over')))
+        buttons.append(QtWidgets.QPushButton(_('Zkusit znovu')))
         buttons[-1].clicked.connect(idle_handle)
 
         button_lay = QtWidgets.QGridLayout()
@@ -348,7 +348,7 @@ class PostprocessMessage(Widgets.TransparentOverlay):
             button_lay.addWidget(button, *pos)
 
         layout = QtWidgets.QVBoxLayout()
-        layout.addWidget(QtWidgets.QLabel(_('Happy?')))
+        # layout.addWidget(QtWidgets.QLabel(_('Happy?')))
         layout.addLayout(button_lay)
         self.setLayout(layout)
 
