@@ -183,11 +183,11 @@ class Camera:
         jerab_fialovy = Image.open('jerab_fialovy_resized.png');
         pulvenec = Image.open('pulvenec_rotated.png');
 
-        pulvenec = pulvenec.rotate(90);
-        picture.paste(vetvicka, (10, 10), mask=vetvicka);
+        # pulvenec = pulvenec.rotate(90);
+        picture.paste(vetvicka, (-100, -100), mask=vetvicka);
         picture.paste(jerab_ruzovy, (30, 1500), mask=jerab_ruzovy);
         picture.paste(jerab_fialovy, (2500, 1500), mask=jerab_fialovy);
-        picture.paste(pulvenec, (2000, 10), mask=pulvenec);
+        picture.paste(pulvenec, (2700, -100), mask=pulvenec);
 
         byte_data = BytesIO()
         picture.save(byte_data, format='jpeg')
