@@ -175,20 +175,22 @@ class Camera:
         shot = Image.open(self._pictures[0])
         print(self._pic_dims.thumbnailSize);
         resized = shot.resize(self._pic_dims.thumbnailSize)
-        croped = resized.crop((0, 200, self._pic_dims.thumbnailSize[0], self._pic_dims.thumbnailSize[1]-300));
-        picture.paste(croped, (self._pic_dims.thumbnailOffset[0][0], self._pic_dims.thumbnailOffset[0][1]))
+        croped = resized.crop((0, 200, self._pic_dims.thumbnailSize[0], self._pic_dims.thumbnailSize[1]-180));
+        picture.paste(croped, (0, 0));
+        print(self._pic_dims.thumbnailSize);
+        print(self._pic_dims.thumbnailSize[0]);
+        print(self._pic_dims.thumbnailSize[1]-180);
+        # picture.paste(croped, (self._pic_dims.thumbnailOffset[0][0], self._pic_dims.thumbnailOffset[0][1]))
         
-        vetvicka = Image.open('vetvicka_rotated.png');
-        jerab_ruzovy = Image.open('jerab_ruzovy_resized.png');
-        jerab_fialovy = Image.open('jerab_fialovy_resized.png');
-        pulvenec = Image.open('pulvenec_rotated.png');
 
+        vetvicka = Image.open('pretty_arrangement/monca/vetev.png');
+        vetvicka2 = Image.open('pretty_arrangement/monca/vetev_rotated.png');
+
+        
         # pulvenec = pulvenec.rotate(90);
-        picture.paste(vetvicka, (-100, -100), mask=vetvicka);
-        picture.paste(jerab_ruzovy, (30, 1500), mask=jerab_ruzovy);
-        picture.paste(jerab_fialovy, (2500, 1500), mask=jerab_fialovy);
-        picture.paste(pulvenec, (2700, -100), mask=pulvenec);
-
+        picture.paste(vetvicka, (-130, -130), mask=vetvicka);
+        picture.paste(vetvicka2, (2600, 1100), mask=vetvicka2);
+        
         byte_data = BytesIO()
         picture.save(byte_data, format='jpeg')
         self._comm.send(Workers.MASTER,

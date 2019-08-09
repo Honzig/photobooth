@@ -148,7 +148,7 @@ class CaptureMessage(QtWidgets.QFrame):
             self._text = _('Picture {} of {}...').format(num_picture,
                                                          num_pictures)
         else:
-            self._text = 'Koukej do objektivu!'
+            self._text = ''
 
         self.initFrame()
 

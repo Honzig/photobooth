@@ -356,10 +356,8 @@ if($relpath !== './'){
 <html><head>
 <meta charset='utf-8'>
 <title><?=$title?></title>
-<link href='//fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
-<link href='//cdn.rawgit.com/brutaldesign/swipebox/master/src/css/swipebox.min.css' rel='stylesheet' type='text/css'>
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href='css.css' rel='stylesheet' type='text/css'>
+<link href='swipebox.min.css' rel='stylesheet' type='text/css'>
 <style type='text/css'>
 html,body {
     margin: 0;
@@ -475,8 +473,8 @@ select {
 }
 
 </style>
-    <script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-    <script src='//cdn.rawgit.com/brutaldesign/swipebox/master/src/js/jquery.swipebox.js'></script>
+    <script src='jquery.min.js'></script>
+    <script src='jquery.swipebox.js'></script>
 </head>
 <body>
     <div id='nav'>
@@ -486,7 +484,6 @@ select {
         <?=$slides?>
     </div>
     <div id='footer'>
-        <a href='https://github.com/stuporglue/InstaGallery'>Gallery by InstaGallery</a>
     </div>
     <?php print implode("\n",$moreHtml); ?>
     <script>
