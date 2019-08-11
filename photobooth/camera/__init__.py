@@ -183,8 +183,8 @@ class Camera:
         # picture.paste(croped, (self._pic_dims.thumbnailOffset[0][0], self._pic_dims.thumbnailOffset[0][1]))
         
 
-        vetvicka = Image.open('pretty_arrangement/monca/vetev.png');
-        vetvicka2 = Image.open('pretty_arrangement/monca/vetev_rotated.png');
+        vetvicka = Image.open('pretty_arrangement/milda/vetev.png');
+        vetvicka2 = Image.open('pretty_arrangement/milda/vetev_rotated.png');
 
         
         # pulvenec = pulvenec.rotate(90);
