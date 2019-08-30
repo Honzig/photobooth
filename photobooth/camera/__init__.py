@@ -175,7 +175,7 @@ class Camera:
         shot = Image.open(self._pictures[0])
         print(self._pic_dims.thumbnailSize);
         resized = shot.resize(self._pic_dims.thumbnailSize)
-        croped = resized.crop((0, 200, self._pic_dims.thumbnailSize[0], self._pic_dims.thumbnailSize[1]-180));
+        croped = resized.crop((0, 200, self._pic_dims.thumbnailSize[0], self._pic_dims.thumbnailSize[1]-450));
         picture.paste(croped, (0, 0));
         print(self._pic_dims.thumbnailSize);
         print(self._pic_dims.thumbnailSize[0]);
@@ -183,13 +183,13 @@ class Camera:
         # picture.paste(croped, (self._pic_dims.thumbnailOffset[0][0], self._pic_dims.thumbnailOffset[0][1]))
         
 
-        vetvicka = Image.open('pretty_arrangement/milda/vetev.png');
-        vetvicka2 = Image.open('pretty_arrangement/milda/vetev_rotated.png');
+        # vetvicka = Image.open('pretty_arrangement/milda/vetev.png');
+        # vetvicka2 = Image.open('pretty_arrangement/milda/vetev_rotated.png');
 
         
         # pulvenec = pulvenec.rotate(90);
-        picture.paste(vetvicka, (-130, -130), mask=vetvicka);
-        picture.paste(vetvicka2, (2600, 1100), mask=vetvicka2);
+        # picture.paste(vetvicka, (-130, -130), mask=vetvicka);
+        # picture.paste(vetvicka2, (2600, 1100), mask=vetvicka2);
         
         byte_data = BytesIO()
         picture.save(byte_data, format='jpeg')
