@@ -175,7 +175,7 @@ class Camera:
         shot = Image.open(self._pictures[0])
         print(self._pic_dims.thumbnailSize);
         resized = shot.resize(self._pic_dims.thumbnailSize)
-        croped = resized.crop((0, 200, self._pic_dims.thumbnailSize[0], self._pic_dims.thumbnailSize[1]-450));
+        croped = resized.crop((0, 200, self._pic_dims.thumbnailSize[0], self._pic_dims.thumbnailSize[1]-150));
         picture.paste(croped, (0, 0));
         print(self._pic_dims.thumbnailSize);
         print(self._pic_dims.thumbnailSize[0]);
